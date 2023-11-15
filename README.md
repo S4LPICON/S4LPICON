@@ -12,9 +12,11 @@ Me gusta participar en multitud de proyectos y de diferentes alcances, metodolog
 🥇 Inspiracion:  @Winflix
 
 ## Tecnologias:
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)</br>
-![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)</br>
+![HTML](https://img.shields.io/badge/HTML5-FF8000?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)</br>
+![css](https://img.shields.io/badge/CSS-0095D5?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)</br>
+![Javascript](https://img.shields.io/badge/Java_Script-0095D5?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)</br>
+![Python](https://img.shields.io/badge/PYTHON-0095D5?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)</br>
+![c++](https://img.shields.io/badge/C++-0095D5?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=101010)</br>
 
 ## Encuentrame en:
 
