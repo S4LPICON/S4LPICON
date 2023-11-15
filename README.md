@@ -27,8 +27,8 @@ Me gusta participar en multitud de proyectos y de diferentes alcances..
 
 ## Contacto y apoyo:
 
-[![MyPublicInbox](https://img.shields.io/badge/MyPublicInbox-MENSAJE+CAFÉ_Gracias!-orange?style=for-the-badge&logo=Microsoft+Outlook&logoColor=white&labelColor=101010)](https://mypublicinbox.com/mouredev)
+[![MyPublicInbox](https://img.shields.io/badge/Contacto_Publico-MENSAJE+CAFÉ_Gracias!-orange?style=for-the-badge&logo=Microsoft+Outlook&logoColor=white&labelColor=101010)](https://mypublicinbox.com/mouredev)
 </br>
 [![Email](https://img.shields.io/badge/contacto.s4lpicon@gmail.com-email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:contacto.s4lpicon@gmail.com)
 </br>
-[![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-apoya_mi_aprendizaje-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)]([https://www.buymeacoffee.com/mouredev](https://www.buymeacoffee.com/jeffersonp7))
+[![BuyMeACoffee](https://img.shields.io/badge/Cómprame_un_Café-apoya_mi_aprendizaje-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)]([https://www.buymeacoffee.com/mouredev](https://www.buymeacoffee.com/jeffersonp7))
