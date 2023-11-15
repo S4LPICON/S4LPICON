@@ -1,5 +1,5 @@
 #  Hola, mi nombre es Jeferson Pinzón 👋. 
-### Soy estudiante de ingeniería en sistemas, me gusta el desarrollo web, el desarrollo de videojuegos ,la programación orientada a objetos, el modelado 3D, y el hardware de muchos dispositivos electronicos.
+### Soy estudiante de ingeniería en sistemas, me gusta el desarrollo web, el desarrollo de videojuegos ,la programación orientada a objetos, el modelado 3D, la arquitectura de servidopres.
 
 Me gusta participar en multitud de proyectos y de diferentes alcances, metodologias e intereses...
 
