@@ -1,4 +1,6 @@
 ### Hi there 👋
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="71bc785a-2cd7-438c-b58c-ababfed3d833" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <!--
 **S4LPICON/S4LPICON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
