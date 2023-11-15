@@ -1,4 +1,4 @@
-#  Hola, mi nombre es Jeferson Pinzón. 👋
+#  Hola, mi nombre es Jeferson Pinzón 👋. 
 ### Soy estudiante de ingeniería de sistemas, me gusta el desarrollo web, el desarrollo de videojuegos y la programación orientada a objetos..
 
 Me gusta participar en multitud de proyectos y de diferentes alcances..
