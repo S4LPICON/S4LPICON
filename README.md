@@ -1,15 +1,15 @@
 #  Hola, mi nombre es Jeferson Pinzón 👋. 
-### Soy estudiante de ingeniería de sistemas, me gusta el desarrollo web, el desarrollo de videojuegos y la programación orientada a objetos..
+### Soy estudiante de ingeniería en sistemas, me gusta el desarrollo web, el desarrollo de videojuegos ,la programación orientada a objetos, el modelado 3D, y el hardware de muchos dispositivos electronicos.
 
-Me gusta participar en multitud de proyectos y de diferentes alcances..
+Me gusta participar en multitud de proyectos y de diferentes alcances, metodologias e intereses...
 
 ## Aprende más sobre mi:
 
 🎁 Contactame en Discord!
 
-🥉 Aprendí: @Concode.org</br>
-🥈 Inspiracion: @Winflix</br>
-🥇 Mejor Desarrollador: @Lechuga_Feliz
+🥉 Aprendí:     @Concode.org</br>
+🥈 Desarrollador:  @Lechuga_Feliz </br>
+🥇 Inspiracion:  @Winflix
 
 ## Tecnologias:
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
