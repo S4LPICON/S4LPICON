@@ -3,13 +3,9 @@
 
 Me gusta participar en multitud de proyectos y de diferentes alcances, metodologias e intereses...
 
-## Aprende más sobre mi:
+## Más detalles sobre mi:
 
-🎁 Contactame en Discord!
 
-🥉 Aprendí:     @Concode.org</br>
-🥈 Desarrollador:  @Lechuga_Feliz </br>
-🥇 Inspiracion:  @Winflix
 
 ## Tecnologias:
 ![HTML](https://img.shields.io/badge/HTML5-FF8000?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)
@@ -17,6 +13,7 @@ Me gusta participar en multitud de proyectos y de diferentes alcances, metodolog
 ![Javascript](https://img.shields.io/badge/Java_Script-0095D5?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)
 ![Python](https://img.shields.io/badge/PYTHON-0095D5?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)
 ![c++](https://img.shields.io/badge/C++-0095D5?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=101010)</br>
+Y alguna otra me falta mencionar...
 
 ## Encuentrame en:
 
@@ -29,7 +26,7 @@ Me gusta participar en multitud de proyectos y de diferentes alcances, metodolog
 
 ## Contacto y apoyo:
 
-[![MyPublicInbox](https://img.shields.io/badge/Contacto_Publico-MENSAJE+CAFÉ_Gracias!-orange?style=for-the-badge&logo=Microsoft+Outlook&logoColor=white&labelColor=101010)](https://mypublicinbox.com/mouredev)
+[![MyPublicInbox](https://img.shields.io/badge/Contacto_Publico-Proximamnete-orange?style=for-the-badge&logo=Microsoft+Outlook&logoColor=white&labelColor=101010)]()
 </br>
 [![Email](https://img.shields.io/badge/contacto.s4lpicon@gmail.com-email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:contacto.s4lpicon@gmail.com)
 </br>
