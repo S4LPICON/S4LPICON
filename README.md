@@ -32,26 +32,21 @@
 
 [![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)](https://react.dev/)
 
-## Tools and Platforms:
+## Plataformas y herramientas:
 
 [![VScode](https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=101010)](https://code.visualstudio.com/)
 [![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)](https://git-scm.com/)
 
 ## Redes sociales:
 
-[![facebook](https://img.shields.io/badge/Twitter-@S4LPICON-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/S4LPICON)
-
-[![YouTube](https://img.shields.io/badge/YouTube-S4LPICON-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)]([https://devexperto.com/youtube](https://www.youtube.com/channel/UCKpGqA0vn_un_0v1lh4hGag))
-
-[![Discord](https://img.shields.io/badge/Twitter-@S4LPICON-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/S4LPICON)
-
-[![tiktok](https://img.shields.io/badge/Twitter-@S4LPICON-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/S4LPICON)
-
+[![facebook](https://img.shields.io/badge/Facebook-@Jeferson_Pinzon-0866FF?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)]([https://twitter.com/S4LPICON](https://www.facebook.com/profile.php?id=100007572617385))
+[![YouTube](https://img.shields.io/badge/YouTube-@S4LPICON-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)]([https://devexperto.com/youtube](https://www.youtube.com/channel/UCKpGqA0vn_un_0v1lh4hGag))
+[![Discord](https://img.shields.io/badge/Discord-@S4LPICON-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discord.com/users/s4lpicon)
+[![tiktok](https://img.shields.io/badge/Tiktok-@S4LPICON-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://tiktok.com/la_mitocondria_sdlg)
 [![Instagram](https://img.shields.io/badge/Instagram-@jeferson.pinz-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https:instagram/jeferson.pinz)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jeferson_Pinzon-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]([https://devexperto.com/linkedin](https://www.linkedin.com/in/jeferson-pinzon-799b99272/))
-
-[![Twitter](https://img.shields.io/badge/Twitter-@S4LPICON-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/S4LPICON)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jeferson_Pinzon-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]([https://www.linkedin.com/in/jeferson-pinzon-799b99272/)
+[![x](https://img.shields.io/badge/Twiter-@S4LPICON-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=101010)](https://twitter.com/S4LPICON)
+[![web](https://img.shields.io/badge/Web-s4lpicon.dev-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=101010)](https://s4lpicon.dev)
 
 
 ## Contacto y apoyo:
