@@ -1,21 +1,35 @@
-#  Hola, mi nombre es Jeferson Pinzón 👋. 
-### Soy estudiante de ingeniería en sistemas, me gusta el desarrollo web, el desarrollo de videojuegos ,la programación orientada a objetos, el modelado 3D, la arquitectura de servidopres.
+<div align="center">
+<h1 align="center">Hola, soy <a href="https://s4lpicon.dev">Jeferson Pinzon </a> 👋</h1>
+<img src="https://raw.githubusercontent.com/S4LPICON/S4LPICON/master/s4lpicon_github_profile.png">
 
-Me gusta participar en multitud de proyectos y de diferentes alcances, metodologias e intereses...
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCKpGqA0vn_un_0v1lh4hGag?style=social)](https://youtube.com/S4LPICON?sub_confirmation=1)
+[![Twitch Status](https://img.shields.io/twitch/status/s4lpicon?style=social)](https://twitch.com/s4lpicon)
+[![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://discord.com/users/s4lpicon)
+[![Twitter Follow](https://img.shields.io/twitter/follow/s4lpicon?style=social)](https://twitter.com/s4lpicon)
+![GitHub Followers](https://img.shields.io/github/followers/S4LPICON?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/S4LPICON?style=social)
+</div>
+<div aling="center">
+<p>Soy un estudiante de 17 años apasionado por la ingeniería en sistemas. Mi fascinación abarca desde el desarrollo web hasta la creación de videojuegos 🎮, programación orientada a objetos 🧠, modelado 3D 🌐, hasta la arquitectura de servidores 🚀 y el hacking ético 🛡️.</p>
 
-## Más detalles sobre mi:
+<p>En mi tiempo libre, contribuyo a la administración de servidores de Minecraft y estoy explorando el fascinante mundo del modelado 3D, inspirado por la idea en poder crear escenarios fantasticos.</p>
 
+**Más sobre mí:**
+- Desarrollo Web: Me especializo en front-end con HTML, CSS y JavaScript.
+- Meta Profesional: Aspiro a tener mi propio sitio web útil para otros desarrolladores.
+- Intereses: Disfruto de salir a comer y dar largas caminatas para desconectar.
+
+¡Abierto a colaboraciones y listo para aprender y crecer juntos en esta comunidad emocionante! 🚀💻
 
 
 ## Tecnologias:
-![HTML](https://img.shields.io/badge/HTML5-FF8000?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)
-![css](https://img.shields.io/badge/CSS-0095D5?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)
-![Javascript](https://img.shields.io/badge/Java_Script-0095D5?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)
-![Python](https://img.shields.io/badge/PYTHON-0095D5?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)
-![c++](https://img.shields.io/badge/C++-0095D5?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=101010)</br>
-Y alguna otra me falta mencionar...
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)
+![css](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)
+![Javascript](https://img.shields.io/badge/Java_Script-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)
+![c++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=101010)</br>
 
-## Encuentrame en:
+## Redes sociales:
 
 [![Web](https://img.shields.io/badge/Mi_Sitio_Web-Proximamente-14a1f0?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)](https://GOOGLE.com)
 [![YouTube](https://img.shields.io/badge/YouTube-S4LPICON-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)]([https://devexperto.com/youtube](https://www.youtube.com/channel/UCKpGqA0vn_un_0v1lh4hGag))
