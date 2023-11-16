@@ -4,13 +4,13 @@
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCKpGqA0vn_un_0v1lh4hGag?style=social)](https://youtube.com/S4LPICON?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/s4lpicon?style=social)](https://twitch.com/s4lpicon)
-[![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://discord.com/users/s4lpicon)
+[![Discord](https://img.shields.io/discord/1141185365751898164?style=social&label=Discord&logo=discord)](https://discord.com/users/s4lpicon)
 [![Twitter Follow](https://img.shields.io/twitter/follow/s4lpicon?style=social)](https://twitter.com/s4lpicon)
 ![GitHub Followers](https://img.shields.io/github/followers/S4LPICON?style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/S4LPICON?style=social)
 </div>
 <div aling="center">
-<p>Soy un estudiante de 17 años apasionado por la ingeniería en sistemas. Mi fascinación abarca desde el desarrollo web hasta la creación de videojuegos 🎮, programación orientada a objetos 🧠, modelado 3D 🌐, hasta la arquitectura de servidores 🚀 y el hacking ético 🛡️.</p>
+<p>Soy un estudiante de 17 años apasionado por la ingeniería en sistemas. Mi fascinación abarca desde el desarrollo web hasta la creación de videojuegos 🎮, programación orientada a objetos 🧠, modelado 3D 🌐, la arquitectura de servidores 🚀 y el hacking ético 🛡️.</p>
 
 <p>En mi tiempo libre, contribuyo a la administración de servidores de Minecraft y estoy explorando el fascinante mundo del modelado 3D, inspirado por la idea en poder crear escenarios fantasticos.</p>
 
@@ -21,20 +21,36 @@
 
 ¡Abierto a colaboraciones y listo para aprender y crecer juntos en esta comunidad emocionante! 🚀💻
 
-
-## Tecnologias:
+## Lenguajes que manejo:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)
 ![css](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)
 ![Javascript](https://img.shields.io/badge/Java_Script-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)
 ![c++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=101010)</br>
 
+## Librerias y Frameworks:
+
+[![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)](https://react.dev/)
+
+## Tools and Platforms:
+
+[![VScode](https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=101010)](https://code.visualstudio.com/)
+[![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)](https://git-scm.com/)
+
 ## Redes sociales:
 
-[![Web](https://img.shields.io/badge/Mi_Sitio_Web-Proximamente-14a1f0?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)](https://GOOGLE.com)
+[![facebook](https://img.shields.io/badge/Twitter-@S4LPICON-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/S4LPICON)
+
 [![YouTube](https://img.shields.io/badge/YouTube-S4LPICON-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)]([https://devexperto.com/youtube](https://www.youtube.com/channel/UCKpGqA0vn_un_0v1lh4hGag))
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jeferson_Pinzon-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]([https://devexperto.com/linkedin](https://www.linkedin.com/in/jeferson-pinzon-799b99272/))
+
+[![Discord](https://img.shields.io/badge/Twitter-@S4LPICON-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/S4LPICON)
+
+[![tiktok](https://img.shields.io/badge/Twitter-@S4LPICON-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/S4LPICON)
+
 [![Instagram](https://img.shields.io/badge/Instagram-@jeferson.pinz-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https:instagram/jeferson.pinz)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jeferson_Pinzon-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]([https://devexperto.com/linkedin](https://www.linkedin.com/in/jeferson-pinzon-799b99272/))
+
 [![Twitter](https://img.shields.io/badge/Twitter-@S4LPICON-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/S4LPICON)
 
 
