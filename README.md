@@ -2,7 +2,7 @@
 <h1 align="center">Hola, soy <a href="https://s4lpicon.dev">Jeferson Pinzon </a> 👋</h1>
 <img src="https://raw.githubusercontent.com/S4LPICON/S4LPICON/master/s4lpicon_github_profile.png">
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCKpGqA0vn_un_0v1lh4hGag?style=social)](https://www.youtube.com/channel/UCKpGqA0vn_un_0v1lh4hGa)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCKpGqA0vn_un_0v1lh4hGag?style=social)](https://youtube.com/@S4LPICON?si=MQD4HUHyBVdxJfwa)
 [![Twitch Status](https://img.shields.io/twitch/status/s4lpicon?style=social)](https://twitch.com/s4lpicon)
 [![Discord](https://img.shields.io/discord/1141185365751898164?style=social&label=Discord&logo=discord)](https://discord.com/users/s4lpicon)
 [![Twitter Follow](https://img.shields.io/twitter/follow/s4lpicon?style=social)](https://twitter.com/s4lpicon)
