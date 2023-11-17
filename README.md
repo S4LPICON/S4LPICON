@@ -18,6 +18,7 @@
 - Desarrollo Web: Me especializo en front-end con HTML, CSS y JavaScript.
 - Meta Profesional: Aspiro a tener mi propio sitio web útil para otros desarrolladores.
 - Intereses: Disfruto de salir a comer y dar largas caminatas para desconectar.
+- Cono empecé?: Un vejo amigo me mostro el mundo de la programacion en Minecraft. (@Winflix)
 
 ¡Abierto a colaboraciones y listo para aprender y crecer juntos en esta comunidad emocionante! 🚀💻
 
