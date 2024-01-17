@@ -15,10 +15,10 @@
 <p>En mi tiempo libre, contribuyo a la administración de servidores de Minecraft y estoy explorando el fascinante mundo del modelado 3D, inspirado por la idea en poder crear escenarios fantasticos.</p>
 
 **Más sobre mí:**
-- Desarrollo Web: Me especializo en front-end con HTML, CSS y JavaScript.
-- Meta Profesional: Aspiro a tener mi propio sitio web útil para otros desarrolladores.
+- Desarrollo: Me gusta la programación orientada objetos, y la generación de algoritmos.
+- Meta Profesional: Aspiro a tener mi propia aplicación web útil para otros desarrolladores.
 - Intereses: Disfruto de salir a comer y dar largas caminatas para desconectar.
-- Como empecé?: Un vejo amigo me mostro el mundo de la programacion en Minecraft. (@Winflix)
+- Como empecé?: Un vejo amigo me mostro el mundo de la programacion en Minecraft gracias a él hoy me gusta la programación en general. (@Winflix)
 
 ¡Abierto a colaboraciones y listo para aprender y crecer juntos en esta comunidad emocionante! 🚀💻
 
