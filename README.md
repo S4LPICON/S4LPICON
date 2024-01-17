@@ -12,7 +12,7 @@
 <div aling="center">
 <p>Soy un estudiante de 17 años apasionado por la ingeniería en sistemas. Mi fascinación abarca desde el desarrollo web hasta la creación de videojuegos 🎮, programación orientada a objetos 🧠, modelado 3D 🌐, la arquitectura de servidores 🚀 y el hacking ético 🛡️.</p>
 
-<p>En mi tiempo libre, contribuyo a la administración de servidores de Minecraft y estoy explorando el fascinante mundo del modelado 3D, inspirado por la idea en poder crear escenarios fantasticos.</p>
+<p>En mi tiempo libre, contribuyo a la administración de servidores de Minecraft y estoy explorando el fascinante mundo del modelado 3D, por las increíbles cosas que podemos lograr con blender y un poco de creatividad.</p>
 
 **Más sobre mí:**
 - Desarrollo: Me gusta la programación orientada objetos, y la generación de algoritmos.
