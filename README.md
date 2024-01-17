@@ -37,6 +37,7 @@
 
 [![VScode](https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=101010)](https://code.visualstudio.com/)
 [![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)](https://git-scm.com/)
+[![chatgpt](https://img.shields.io/badge/Openai-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=101010)](https://openai.com/)
 
 ## Redes sociales:
 
