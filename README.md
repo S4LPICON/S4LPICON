@@ -15,10 +15,10 @@
 <p>En mi tiempo libre, contribuyo a la administración de servidores de Minecraft y estoy explorando el fascinante mundo del modelado 3D, por las increíbles cosas que podemos lograr con blender y un poco de creatividad.</p>
 
 **Más sobre mí:**
-- Desarrollo: Me gusta la programación orientada objetos, y la generación de algoritmos.
+- Desarrollo: Me gusta la programación orientada a objetos, y la generación de algoritmos.
 - Meta Profesional: Aspiro a tener mi propia aplicación web útil para otros desarrolladores.
 - Intereses: Disfruto de salir a comer y dar largas caminatas para desconectar.
-- Como empecé?: Un vejo amigo me mostro el mundo de la programacion en Minecraft gracias a él hoy me gusta la programación en general. (@Winflix)
+- Como empecé?: Un vejo amigo me mostro el mundo de la programacion en Minecraft (@Winflix) gracias a él hoy me gusta el desarrollo y la programación.
 
 ¡Abierto a colaboraciones y listo para aprender y crecer juntos en esta comunidad emocionante! 🚀💻
 
