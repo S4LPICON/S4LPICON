@@ -10,17 +10,6 @@
 ![GitHub Stars](https://img.shields.io/github/stars/S4LPICON?style=social)
 </div>
 <div aling="center">
-<p>Soy un estudiante de 17 años apasionado por la ingeniería en sistemas. Mi fascinación abarca desde el desarrollo web hasta la creación de videojuegos 🎮, programación orientada a objetos 🧠, modelado 3D 🌐, la arquitectura de servidores 🚀 y el hacking ético 🛡️.</p>
-
-<p>En mi tiempo libre, contribuyo a la administración de servidores de Minecraft y estoy explorando el fascinante mundo del modelado 3D, por las increíbles cosas que podemos lograr con blender y un poco de creatividad.</p>
-
-**Más sobre mí:**
-- Desarrollo: Me gusta la programación orientada a objetos, y la generación de algoritmos.
-- Meta Profesional: Aspiro a tener mi propia aplicación web útil para otros desarrolladores.
-- Intereses: Disfruto de salir a comer y dar largas caminatas para desconectar.
-- Como empecé?: Un vejo amigo me mostro el mundo de la programacion en Minecraft (@Winflix) gracias a él hoy me gusta el desarrollo y la programación.
-
-¡Abierto a colaboraciones y listo para aprender y crecer juntos en esta comunidad emocionante! 🚀💻
 
 ## Lenguajes que manejo:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)
